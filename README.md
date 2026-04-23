@@ -18,10 +18,10 @@ This project focuses on detecting anomalies in time-series sensor data using an 
 ## Visual Results
 
 ### Before Tuning
-(anomaly_plot_before.png)
+![Before](anomaly_plot_before.png)
 
 ### After Tuning
-(anomaly_plot_after.png)
+![After](anomaly_plot_after.png)
 
 ## Tech Stack
 Python | Pandas | NumPy | Scikit-learn | Matplotlib
